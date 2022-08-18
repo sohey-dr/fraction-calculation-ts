@@ -1,6 +1,6 @@
 {
   "name": "fraction-calculation",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Output fraction calculations from intermediate formulas",
   "main": "dist/index.js",
   "repository": "https://github.com/sohey-dr/fraction-calculation.git",
